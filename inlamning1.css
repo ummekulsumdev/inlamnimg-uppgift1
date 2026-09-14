@@ -20,8 +20,8 @@ body {
 
 
 
-/* Nu jag ska börja jobba med header section */
-/* jag har jobbat med hela bakgrund här */
+/* Nu börjar jag jobba med header section */
+/*  bakgrund  */
 
 
 
@@ -126,7 +126,7 @@ header {
 }
 
 
-/* nu jag ska lägga media quary på header så att hemsidan blir responsiv */
+/* media quary för responsiv header */
 
 
 @media (max-width: 600px) {
@@ -172,7 +172,7 @@ header {
 
 
 /* Header section är klar */
-/* Nu jag ska jobba med main section */
+/* Nu börjar jag jobba med main section */
 
 
 main h2 {
@@ -183,7 +183,7 @@ main h2 {
 }
 
 
-/* jag ska bara använda team med grid sen resten ov boxar med flexbox */
+/* Grid för team, flexbox för resten */
 
 .team {
 
@@ -253,7 +253,7 @@ main .next-page a {
 }
 
 
-/* nu jag ska börja lägga media quaery för menu section */
+/* media quaery för menu  */
 
 
 @media(max-width:600px) {
@@ -273,8 +273,8 @@ main .next-page a {
 
 
 
-/* Jag har jobbat klart med main section */
-/* nu jag ska börja med footer section */
+/*  main section är klar */
+/* nu börjar jag med footer section */
 
 
 
